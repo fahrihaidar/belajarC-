@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\bin\Debug\net6.0\DemoIteration.exe
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\bin\Debug\net6.0\DemoIteration.deps.json
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\bin\Debug\net6.0\DemoIteration.runtimeconfig.json
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\bin\Debug\net6.0\DemoIteration.dll
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\bin\Debug\net6.0\DemoIteration.pdb
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\obj\Debug\net6.0\DemoIteration.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\obj\Debug\net6.0\DemoIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\obj\Debug\net6.0\DemoIteration.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\obj\Debug\net6.0\DemoIteration.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\obj\Debug\net6.0\DemoIteration.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\obj\Debug\net6.0\DemoIteration.dll
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\obj\Debug\net6.0\refint\DemoIteration.dll
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\obj\Debug\net6.0\DemoIteration.pdb
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\obj\Debug\net6.0\DemoIteration.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoIteration\obj\Debug\net6.0\ref\DemoIteration.dll

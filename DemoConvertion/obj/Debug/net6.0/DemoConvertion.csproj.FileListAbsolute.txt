@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\obj\Debug\net6.0\DemoConvertion.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\obj\Debug\net6.0\DemoConvertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\obj\Debug\net6.0\DemoConvertion.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\obj\Debug\net6.0\DemoConvertion.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\obj\Debug\net6.0\DemoConvertion.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\bin\Debug\net6.0\DemoConvertion.exe
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\bin\Debug\net6.0\DemoConvertion.deps.json
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\bin\Debug\net6.0\DemoConvertion.runtimeconfig.json
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\bin\Debug\net6.0\DemoConvertion.dll
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\bin\Debug\net6.0\DemoConvertion.pdb
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\obj\Debug\net6.0\DemoConvertion.dll
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\obj\Debug\net6.0\refint\DemoConvertion.dll
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\obj\Debug\net6.0\DemoConvertion.pdb
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\obj\Debug\net6.0\DemoConvertion.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoConvertion\obj\Debug\net6.0\ref\DemoConvertion.dll

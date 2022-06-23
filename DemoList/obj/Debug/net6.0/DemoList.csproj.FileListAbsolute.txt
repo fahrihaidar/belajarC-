@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Belajar C#\DemoList\bin\Debug\net6.0\DemoList.exe
+C:\Users\Acer\Desktop\Belajar C#\DemoList\bin\Debug\net6.0\DemoList.deps.json
+C:\Users\Acer\Desktop\Belajar C#\DemoList\bin\Debug\net6.0\DemoList.runtimeconfig.json
+C:\Users\Acer\Desktop\Belajar C#\DemoList\bin\Debug\net6.0\DemoList.dll
+C:\Users\Acer\Desktop\Belajar C#\DemoList\bin\Debug\net6.0\DemoList.pdb
+C:\Users\Acer\Desktop\Belajar C#\DemoList\obj\Debug\net6.0\DemoList.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoList\obj\Debug\net6.0\DemoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Belajar C#\DemoList\obj\Debug\net6.0\DemoList.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoList\obj\Debug\net6.0\DemoList.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Belajar C#\DemoList\obj\Debug\net6.0\DemoList.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoList\obj\Debug\net6.0\DemoList.dll
+C:\Users\Acer\Desktop\Belajar C#\DemoList\obj\Debug\net6.0\refint\DemoList.dll
+C:\Users\Acer\Desktop\Belajar C#\DemoList\obj\Debug\net6.0\DemoList.pdb
+C:\Users\Acer\Desktop\Belajar C#\DemoList\obj\Debug\net6.0\DemoList.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Belajar C#\DemoList\obj\Debug\net6.0\ref\DemoList.dll
